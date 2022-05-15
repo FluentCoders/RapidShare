@@ -1,2 +1,2 @@
-# RapidShare
+# SwiftShare
 SwiftShare
