@@ -1,6 +1,6 @@
-*.iml
+app/build/
 .gradle
-/local.properties
+.idea
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
@@ -10,3 +10,4 @@
 /build
 /captures
 local.properties
+*.iml
